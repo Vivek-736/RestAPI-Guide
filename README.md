@@ -492,5 +492,3 @@ const SECRET = process.env.SECRET || 'REST-API-SECRET';
 ---
 
 🎉 **Congratulations!** You now have a fully functional REST API with authentication, user management, and MongoDB integration.
-#   R e s t A P I - G u i d e  
- 
